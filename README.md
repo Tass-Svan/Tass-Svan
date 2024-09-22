@@ -1,6 +1,1 @@
-- 👋 Hi, I’m Tass
-- 👀 I’m interested in drawing
-- 🌱 I’m currently learning Python
-- 📫 How to reach me 
-- 😄 Pronouns: She/her
-- ⚡ Fun fact: I love to eat 
+Hi! Bye!
